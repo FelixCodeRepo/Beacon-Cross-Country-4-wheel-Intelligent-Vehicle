@@ -1,0 +1,70 @@
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[Breakpoints]
+Count=0
+[DebugChecksum]
+Checksum=-902248440
+[Exceptions]
+StopOnUncaught=_ 0
+StopOnThrow=_ 0
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[JLinkDriver]
+TraceBufferSize=0x00010000
+TraceStallIfFIFOFull=0x00000000
+TracePortSize=0x00000004
+CStepIntDis=_ 0
+[CodeCoverage]
+Enabled=_ 0
+[array_types]
+Fmt0=uint8[309]	4	0
+[watch_formats]
+Fmt0={W}1:IAZ	3	0
+Fmt1={W}1:figl	3	0
+Fmt2={W}42:c	3	0
+Fmt3={W}42:xx	3	0
+Fmt4={W}42:y	3	0
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[CallStackLog]
+Enabled=0
+[DriverProfiling]
+Enabled=0
+Mode=1
+Graph=0
+Symbiont=0
+Exclusions=
+[Disassemble mode]
+mode=0
+[Breakpoints2]
+Count=0
+[Aliases]
+A0=_ "C:\Users\Administrator\Desktop\OV7620数字摄像头使（新款）\OV7620数字摄像头使用资料\OV7620摄像头K60例程\OV7620摄像头测试例程\K60采集摄像头程序\LPLD_OSKinetis_V3\project\sc_zzc\app\sc_zzc.c" ""
+A1=_ "F:\[拉普兰德K60固件库]LPLD_OSKinetis_V3.03\LPLD_OSKinetis_V3\lib\CPU\startup_K60.s" ""
+A2=_ "F:\[拉普兰德K60固件库]LPLD_OSKinetis_V3.03\LPLD_OSKinetis_V3\lib\LPLD\HW\HW_CAN.c" ""
+A3=_ "F:\[拉普兰德K60固件库]LPLD_OSKinetis_V3.03\LPLD_OSKinetis_V3\lib\LPLD\HW\HW_FTM.c" ""
+A4=_ "F:\[拉普兰德K60固件库]LPLD_OSKinetis_V3.03\LPLD_OSKinetis_V3\lib\LPLD\HW\HW_MCG.c" ""
+A5=_ "F:\[拉普兰德K60固件库]LPLD_OSKinetis_V3.03\LPLD_OSKinetis_V3\lib\LPLD\HW\HW_PDB.c" ""
+A6=_ "F:\[拉普兰德K60固件库]LPLD_OSKinetis_V3.03\LPLD_OSKinetis_V3\lib\LPLD\HW\HW_RTC.c" ""
+A7=_ "F:\[拉普兰德K60固件库]LPLD_OSKinetis_V3.03\LPLD_OSKinetis_V3\lib\LPLD\HW\HW_SPI.c" ""
+A8=_ "F:\[拉普兰德K60固件库]LPLD_OSKinetis_V3.03\LPLD_OSKinetis_V3\lib\LPLD\HW\HW_TSI.c" ""
+A9=_ "F:\[拉普兰德K60固件库]LPLD_OSKinetis_V3.03\LPLD_OSKinetis_V3\lib\LPLD\HW\HW_UART.c" ""
+A10=_ "F:\[拉普兰德K60固件库]LPLD_OSKinetis_V3.03\LPLD_OSKinetis_V3\lib\common\printf.c" ""
+A11=_ "F:\[拉普兰德K60固件库]LPLD_OSKinetis_V3.03\LPLD_OSKinetis_V3\lib\common\relocate.c" ""
+Count=12
+SuppressDialog=1
