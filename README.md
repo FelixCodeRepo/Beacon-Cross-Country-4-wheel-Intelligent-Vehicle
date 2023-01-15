@@ -1,7 +1,6 @@
 # Beacon-Cross-Country-4-wheel-Intelligent-Vehicle
 
 Our vehicle B
-![VehicleB](https://user-images.githubusercontent.com/89890055/212494044-836aba33-7857-4601-a718-031653e43119.JPG)
-
+![VehicleB-Mask](https://user-images.githubusercontent.com/89890055/212547340-f303ab41-f443-4493-8f19-a990d7cba0b1.JPG)
 Our hardware of vehicle B
-![VehicleB_HardWare](https://user-images.githubusercontent.com/89890055/212494063-47f8dea2-1069-4553-abd1-f223d6d28702.JPG)
+![VehicleB_HardWare-Mask](https://user-images.githubusercontent.com/89890055/212547356-cb6c8d4c-de32-4556-9913-5ef9f3ec4d75.JPG)
